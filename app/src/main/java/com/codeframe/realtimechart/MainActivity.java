@@ -6,8 +6,7 @@ import android.graphics.Color;
 import android.os.Bundle;
 
 import com.codeframe.looper.TaskScheduler;
-import com.codeframe.realtimechart.linechart.Components;
-import com.codeframe.realtimechart.linechart.RealtimeChartPlotter;
+import com.codeframe.realtimecharts.Bargraph;
 import com.github.mikephil.charting.charts.BarChart;
 import com.github.mikephil.charting.charts.LineChart;
 import com.github.mikephil.charting.data.LineDataSet;
